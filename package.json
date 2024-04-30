@@ -4,7 +4,7 @@
   "description": "my first socket.io app",
   "dependencies": {
     "dotenv": "^16.0.1",
-    "ejs": "^3.1.6",
+    "ejs": "^3.1.10",
     "express": "^4.17.1",
     "peerjs": "^1.4.6",
     "socket.io": "^4.5.1",
